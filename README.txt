@@ -1,4 +1,4 @@
-WORDLONG - Wordle with 6 to 10 letter words, and 2-player duels
+WORDLONG - Wordle with 5 to 10 letter words, and 2-player duels
 
 NEEDS: Node.js 16 or newer (free, from nodejs.org). Nothing else to install.
 
@@ -9,7 +9,7 @@ The game opens at http://localhost:3000 and the terminal prints a
 "Friend" address for people on the same Wi-Fi.
 
 PLAY SOLO
-  Solo tab -> pick 6 to 10 letters -> guess.
+  Solo tab -> pick 5 to 10 letters -> guess.
 
 PLAY WITH A FRIEND (one of you runs the server)
   1. Host: start the app. Friend: open the "Friend" address from the terminal
