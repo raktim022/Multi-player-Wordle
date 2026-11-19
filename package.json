@@ -1,0 +1,1 @@
+{ "name": "wordlong", "version": "1.0.0", "description": "Wordle with 6-10 letter words and two-player duels", "main": "server.js", "scripts": { "start": "node server.js" }, "engines": { "node": ">=16" }, "license": "MIT" }
